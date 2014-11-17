@@ -1,0 +1,67 @@
+# Ignore large parts of the annoying cache directory without breaking things.
+cache/csv/*
+cache/backup/*.sql
+cache/backup/*.gz
+cache/blowfish/*
+cache/dashlets/*
+cache/diagnostic/*
+cache/dynamic_fields/*
+cache/feeds/*
+cache/import/*
+cache/include/*
+cache/jsLanguage/*
+cache/modules/*
+cache/pdf/*
+cache/smarty/cache/*
+cache/smarty/templates_c/*
+cache/themes/*
+cache/xml/*
+cache/Relationships/*
+cache/htmlclean/*
+cache/upgrades/*
+# Ignore some files and directories from the custom directory.
+custom/history/*
+custom/modulebuilder/*
+custom/working/*
+# Custom configuration should also be ignored.
+config.php
+# /config_override.php
+# The silent upgrade scripts aren't needed.
+silentUpgrade*.php
+# Logs files can safely be ignored.
+*.log
+
+
+#not sync upload-files dir
+upload-files/*
+!upload-files/.htaccess
+
+#not sync cache/upload dir
+cache/upload/*
+!upload-files/index.html
+!upload-files/upgrades/*
+
+.idea/
+encodings.xml
+misc.xml
+modules.xml
+projectCodeStyle.xml
+vcs.xml
+*.iml
+workspace.xml
+
+#not update nbproject
+nbproject/*
+
+vardefs.ext.php
+layoutdefs.ext.php
+en_us.lang.ext.php
+ru_ru.lang.ext.php
+it_it.lang.ext.php
+
+
+custom/application/Ext/Include/modules.ext.php
+custom/application/Ext/TableDictionary/tabledictionary.ext.php
+custom/application/Ext/Utils/custom_utils.ext.php
+custom/modules/Administration/Ext/Administration/administration.ext.php
+/nbproject/private/

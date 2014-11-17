@@ -1,0 +1,31 @@
+/*
+    Document   : mycss
+    Created on : Jan 23, 2014, 8:05:34 PM
+    Author     : slavarita
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#text_form{
+background: #6d88b7; /* Old browsers */
+background: -moz-linear-gradient(top, #6d88b7 0%, #b8c6df 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6d88b7), color-stop(100%,#b8c6df)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #6d88b7 0%,#b8c6df 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #6d88b7 0%,#b8c6df 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #6d88b7 0%,#b8c6df 100%); /* IE10+ */
+background: linear-gradient(to bottom, #6d88b7 0%,#b8c6df 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d88b7', endColorstr='#b8c6df',GradientType=0 ); /* IE6-9 */
+}
+
+#text_form h3{
+    color:white;
+    text-shadow: 0 0 2px black;
+    padding: 4px;
+
+}
+
+#text_form img{
+  cursor:pointer;
+  float:right;
+  padding: 5px 5px 0 0;
+}

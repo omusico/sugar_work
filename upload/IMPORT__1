@@ -1,0 +1,27 @@
+"Название","ID","Описание","Ответственный(ая)","Ответственный(ая)","Дата создания","Дата изменения","Создано","Изменено","Удалено","Улица","new_building","concierge","elevator","parking","infrastructure","Общая площадь (м2)","Этажность","Долгота","Широта","Тип строения","Город","Страна","Улица","Дом","Расположение на карте","Количество квартир на этаже в здании","Область","Код","Фотографии","galleria_c","Изменено","modified_by_name_owner","modified_by_name_mod","Создано","created_by_name_owner","created_by_name_mod","assigned_user_name_owner","assigned_user_name_mod","modified_user_name","modified_user_name_owner","modified_user_name_mod"
+"Default Name for Buildings","1f14b240-2b32-b471-bf2e-5298493ad9e2","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna","1f1f5de4-ee4f-b8c3-9dad-5298495149ba","1f26e2f7-5be4-feb5-3602-5298496d3545","29.11.2013 11:59","29.11.2013 11:59","1f4bc4e9-093f-4205-2f4a-5298495c0d3a","1f538760-0ad4-e986-95c6-529849e0e79a","0","","","","","","","3","3","","","Жилой дом","","","","","","2","","4","","","1f67659f-980f-f1e7-daaf-52984966adcf","","","1f6ef9f5-b05a-d53e-9a76-529849537e65","","","","","","","",
+"Default Name for Buildings","1f77d2df-5b4a-358c-8aa2-529849fec378","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna","1f7f5770-63c6-923c-e854-5298495d20d3","1f86a51a-087d-7150-7d1b-529849970401","29.11.2013 11:59","29.11.2013 11:59","1fa4818d-3db0-dfe9-a9f5-529849026964","1fabf6ff-930f-1b61-2dfd-529849249a06","0","","","","","","","1","4","","","Комплекс","","","","","","2","","1","","","1fbe5ce2-e7ff-3630-2faf-5298496f45da","","","1fc5e289-197a-93cd-b8ab-529849121df9","","","","","","","",
+"Default Name for Buildings","1fceb1b7-2120-9bd9-ab1b-529849d0d65f","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna","1fd74066-a166-34da-7085-529849c86f08","1fde8f2f-e32f-5131-238a-529849dafa88","29.11.2013 11:59","29.11.2013 11:59","1ffbd1bd-51e5-77cf-5252-529849a73042","20034a07-5d05-56d3-5556-529849d95861","1","","","","","","","2","3","","","Коммерческий объект","","","","","","3","","3","","","20158015-549c-c4ad-8438-5298497c77ef","","","201cf591-247a-f978-e7df-529849a20844","","","","","","","",
+"Default Name for Buildings","2025fd6b-8885-2600-b887-529849aa8960","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna","202d9512-c1c5-b9a3-bbc0-5298499328e1","2034c5e0-4fc8-d981-f3d8-52984940a1e0","29.11.2013 11:59","29.11.2013 11:59","2053d2a2-de55-e02f-eb77-529849cd70df","205b9f43-6d1e-2bc3-5944-5298492faaca","0","","","","","","","1","1","","","Коммерческий объект","","","","","","4","","2","","","206f2481-d8ce-bba6-475d-529849513363","","","2076afa6-fc4a-f374-aa98-5298497d37e7","","","","","","","",
+"Default Name for Buildings","207fec6d-6c33-a9fc-9ea4-529849e13193","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna","2087948f-0c5e-a088-6532-5298499b2378","208eeba5-3733-7a94-6439-5298493402e8","29.11.2013 11:59","29.11.2013 11:59","20adafd4-9379-7f63-e769-52984934379f","20b5165a-3a07-082d-03b5-5298492d1fe2","1","","","","","","","0","4","","","Комплекс","","","","","","2","","1","","","20c7ae31-7440-e7b6-2ebf-52984970f00b","","","20d02c56-f90b-05f8-67ab-5298492180a4","","","","","","","",
+ 
+
+Это пример файла, содержащего данные, подготовленные к импорту.
+Файл представляет собой текст, содержащий запятые в качестве обычного разделителя и двойные кавычки в качестве ограничителя полей.
+
+Самая верхняя строка представляет собой строку заголовков и содержит названия полей, которые будут отображены в системе.
+Названия полей будут использоваться для корректного отображения содержимого файла в соответствующих полях системы.
+
+Примечание:
+Названия полей, содержащихся в БД также могут быть использованы в строке заголовка. Это может быть полезно, когда вы используете средства администрирования СУБД, например PhpMyAdmin или любой другой соответствующий инструментарий для экспорта данных, предназначенных для последующего импорта.
+Порядок расположения столбцов в файле не имеет решающего значения, так как данные будут импортироваться в систему в соответствии с порядком следования полей в строке заголовка.
+
+
+Для использования данного файла в качестве шаблона, выполните следующие действия:
+1. Удалите строки с демонстрационными данными
+2. Удалите текст справки, который вы сейчас и читаете
+3. Заполните файл необходимыми рабочими данными
+4. Сохраните данный файл в определенной папке
+5. Из меню модуля запустите процесс импорта и выберите только что сохранённый файл в качестве источника данных для загрузки
+
+   

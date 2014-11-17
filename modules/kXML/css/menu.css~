@@ -1,0 +1,35 @@
+/*
+*	Created by Kolerts
+*/
+
+.xmlMenu{
+	display:none;
+	position:fixed;
+	left:25%;
+	top:10%;
+	width:50%;
+	padding:10px;
+	border:1px solid #ABC3D7;
+	background-color:#FAFAFA;
+	color:#444;
+	
+	-moz-box-shadow: 5px 5px 5px rgba(0,0,0,0.5); /* Для Firefox */
+	-webkit-box-shadow: 5px 5px 5px rgba(0,0,0,0.5); /* Для Safari и Chrome */
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5); /* Параметры тени */
+	filter: progid:DXImageTransform.Microsoft.shadow(direction=120, color=#000000, strength=5);/*IE*/
+}
+.xmlMenu h3{
+	color:#333;
+	text-align:center;
+}.xmlMenu td{
+	background-color:#fff;
+}
+.xmlDetail{
+	padding:3px;
+	display:none;
+	position:absolute;
+	background-color:#FAFAFA;
+	border:1px solid #888;
+	color:#444;
+	text-align:left;
+}

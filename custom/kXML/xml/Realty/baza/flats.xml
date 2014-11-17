@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="flats.xsd">
+  <flat>
+    <id>19e17044-6e18-8363-64eb-50eec72651ef</id>
+    <area/>
+    <price currency="RUB">15000000</price>
+    <note><![CDATA[]]></note>
+    <phone>;</phone>
+    <com agent="100" client="0"/>
+    <address admin_area="1" locality="Москва" street="Бобруйская"/>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/19e17044-6e18-8363-64eb-50eec72651ef/4f82acab-3301-cd68-1603-510471eae3d0.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/19e17044-6e18-8363-64eb-50eec72651ef/8d937b92-b350-8d56-9435-5104719b5b20.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/19e17044-6e18-8363-64eb-50eec72651ef/eac3cd24-6629-8551-5c9a-51063203f589.jpeg</photo>
+  </flat>
+  <flat>
+    <id>c9d9db17-bae9-70bf-7f27-50f7e7a94564</id>
+    <area/>
+    <price currency="RUB">20000000</price>
+    <note><![CDATA[]]></note>
+    <phone>;</phone>
+    <com agent="100" client="0"/>
+    <address admin_area="1" locality="Москва" street="Вятская"/>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/c9d9db17-bae9-70bf-7f27-50f7e7a94564/50e3c8cf-5821-5c8d-a726-50f7e7de554c.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/c9d9db17-bae9-70bf-7f27-50f7e7a94564/833034d8-2a8d-9a50-00ed-50f7e7bb12f3.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/c9d9db17-bae9-70bf-7f27-50f7e7a94564/bd5c0769-e1de-f221-063b-50f7e7023a7b.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/c9d9db17-bae9-70bf-7f27-50f7e7a94564/c53d0772-5f60-f85d-f3b7-510635a751c4.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/c9d9db17-bae9-70bf-7f27-50f7e7a94564/d21d0ce0-d821-1312-29c3-5106351e9460.jpeg</photo>
+  </flat>
+  <flat>
+    <id>6e048c9e-14c1-29d3-2d63-50eeb0ed4d5f</id>
+    <area/>
+    <price currency="RUB">12300000</price>
+    <note><![CDATA[]]></note>
+    <phone>;</phone>
+    <com agent="100" client="0"/>
+    <address admin_area="1" locality="Москва" street="пер. Васнецова"/>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/6e048c9e-14c1-29d3-2d63-50eeb0ed4d5f/35a4afc5-b00a-b5f6-f6f9-5106339f217e.jpeg</photo>
+    <photo>http://realty-beta.crmprof-service.com/upload/gallery_images/6e048c9e-14c1-29d3-2d63-50eeb0ed4d5f/d3c3f06a-6288-be2b-9cd9-510471426698.jpeg</photo>
+  </flat>
+  <flat>
+    <id>2a76d819-d2ac-f1a1-8b7a-521da8f75137</id>
+    <area/>
+    <price currency="RUB">1254411</price>
+    <note><![CDATA[]]></note>
+    <phone>;</phone>
+    <com agent="100" client="0"/>
+    <address admin_area="1" locality="Москва" street=""/>
+  </flat>
+</flats>

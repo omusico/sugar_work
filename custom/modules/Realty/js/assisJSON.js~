@@ -1,0 +1,35 @@
+$(document).ready(function() {
+	
+});
+
+function assisRefresh(event) {
+	var record_id = event.target.previousSibling.value;
+$.ajax({
+    type: 'GET',
+    url: "https://assis.ru/ws/json",
+ 
+    // the name of the callback parameter, as specified by the YQL service
+    jsonp: "callback",
+ 
+    // tell jQuery we're expecting JSONP
+    dataType: "jsonp",
+ 
+    // tell YQL what we want and that we want JSON
+    data: {
+        method: "GetStatus",
+		login: '79780328350',
+		password: '53311057',
+		request: {
+			requestType:"GetStatusRequestType",
+			id:record_id,
+		}
+    },
+ 
+    // work with the response
+    success: function( response ) {
+        console.log( response ); // server response
+    }
+});
+
+}
+

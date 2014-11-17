@@ -1,0 +1,26 @@
+<?php
+// created: 2014-02-17 17:16:41
+$mod_strings = array (
+  'LBL_CODE' => 'Код',
+  'LBL_SUBPANEL_REALTY_BUILDINGS_TITLE' => 'Объекты недвижимости',
+  'LBL_CURRENT_SQUARE' => 'Общая площадь (м2)',
+  'LBL_NUMBER_OF_FLOORS' => 'Этажность',
+  'LBL_LONGITUDE' => 'Долгота',
+  'LBL_LATITUDE' => 'Широта',
+  'LBL_TYPE_OF_BUILDING' => 'Тип здания',
+  'LBL_ADDRESS_CITY' => 'Город',
+  'LBL_ADDRESS_COUNTRY' => 'Страна',
+  'LBL_ADDRESS_STREET' => 'Адрес',
+  'LBL_ADDRESS_HOUSE' => 'Дом',
+  'LBL_MAP_IN_EDITVIEW' => 'Расположение на карте',
+  'LBL_GALERIA' => 'Фотографии',
+  'LBL_SUBPANEL_BUILDINGS_SECTIONS_TITLE' => 'Подъезды',
+  'LBL_FLATS_QUANTITY' => 'Количество квартир на этаже',
+  'LBL_ADDRESS_REGION' => 'Область',
+  'LBL_ADDRESS_GOOGLE' => 'Адрес геолокации с GoogleMap',
+  'LBL_NAME' => 'Название',
+  'LBL_GALLERIA' => '',
+  'LBL_NUMBER_SECTIONS' => 'Количество секций',
+  'LBL_NUMBER_NON_RESIDENTIAL' => 'Количесво нежилых помещений',
+  'LBL_EDITVIEW_PANEL1' => 'Новая панель 1',
+);

@@ -1,0 +1,17 @@
+/*
+*	Created by Kolerts
+*/
+
+.element_div{
+	padding-left:15px;
+	padding-top:5px;
+	border-left:1px solid #ccf;
+}
+
+.container{
+	padding:10px;
+	margin:5px;
+	border:1px dotted #666;
+	width:80%;
+	background-color:#f8f8f8;
+}

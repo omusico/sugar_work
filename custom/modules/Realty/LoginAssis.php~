@@ -1,0 +1,17 @@
+<form method="post" action="/index.php?module=Realty&action=SignInAssis&to_pdf=1">
+    <label for="assis_login">Assis login</label>
+    <br/>
+    <input type="text" name="assis_login" id="assis_login">
+    <br/>
+    <label for="assis_password">Assis password</label>
+    <br/>
+    <input type="password" name="assis_password" id="assis_password">
+    <br/>
+    <input type="submit" name="login" value="SignIn">
+</form>
+<?php
+echo 
+if ((!empty($_GET['ErrorMsg'])) && (isset($_GET['ErrorMsg']))) {
+    echo $_GET['ErrorMsg'];
+}
+
